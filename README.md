@@ -4,8 +4,8 @@
 
 - <b>Azure  /  Cloud Projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/SamJaimes/Azure_SOC)
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b></b>
+  - 
 
 
 
